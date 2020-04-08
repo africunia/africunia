@@ -1,4 +1,4 @@
-This is the Smart Contract Token Source Code:
+This is the ERC-20 Smart Contract Token Source Code:
 
 pragma solidity ^0.4.20;
 
